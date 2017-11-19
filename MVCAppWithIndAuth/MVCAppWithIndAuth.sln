@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAppWithIndAuth", "MVCAppWithIndAuth\MVCAppWithIndAuth.csproj", "{F7F1A687-F8B5-4F6E-8BC1-52BAE175E660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAppWithIndAuth.Tests", "MVCAppWithIndAuth.Tests\MVCAppWithIndAuth.Tests.csproj", "{EDC1FCA3-594C-4D4A-AA42-26A1F26CDEBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F1A687-F8B5-4F6E-8BC1-52BAE175E660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F1A687-F8B5-4F6E-8BC1-52BAE175E660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F1A687-F8B5-4F6E-8BC1-52BAE175E660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F1A687-F8B5-4F6E-8BC1-52BAE175E660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC1FCA3-594C-4D4A-AA42-26A1F26CDEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC1FCA3-594C-4D4A-AA42-26A1F26CDEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC1FCA3-594C-4D4A-AA42-26A1F26CDEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC1FCA3-594C-4D4A-AA42-26A1F26CDEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
